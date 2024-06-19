@@ -1,0 +1,1 @@
+export const TG_TOKEN = '6362315998:AAF-8x6bmcpv2cI39GRJw9in9-VTYOzeCMY';
